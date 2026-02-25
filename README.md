@@ -1,7 +1,7 @@
 # Vulnerability Assessment and Spectral Optimization of Power Grid Networks
 
 🔗 **Streamlit Deployment:**  
-[Click here to view the live app]((https://network-analysis-and-optimization-of-power-grid-network-cdvhav.streamlit.app/))
+[Click here to view the live app](https://network-analysis-and-optimization-of-power-grid-network-cdvhav.streamlit.app/)
 
 ---
 
