@@ -1,5 +1,0 @@
-streamlit
-networkx
-pandas
-numpy
-matplotlib
